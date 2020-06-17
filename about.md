@@ -15,4 +15,4 @@ When I'm not at work I like reading, cycling, yoga, cooking, crocheting and puzz
 
 ### contact
 
-[caroline.hatwell@gmail.com](caroline.hatwell@gmail.com)[🐦hatwell](https://www.twitter.com/hatwell)
+[caroline.hatwell@gmail.com](caroline.hatwell@gmail.com)    [🐦hatwell](https://www.twitter.com/hatwell)
