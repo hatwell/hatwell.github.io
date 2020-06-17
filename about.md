@@ -1,15 +1,18 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: who i am
+permalink: /about-me/
 ---
+### about me
 
-Some information about you!
+I'm a software engineer currently working at [https://digitalblog.coop.co.uk/](Co-op Digital)
 
-### More Information
+I graduate from [https://codeclan.com](CodeClan) in 2017. I mostly write Python and JavaScript (React). I like TDD. 
 
-A place to include any other types of information that you'd like to include about yourself.
+### other stuff
 
-### Contact me
+When I'm not at work I like reading, cycling, yoga, cooking, crocheting and puzzles.
 
-[email@domain.com](mailto:email@domain.com)
+### contact
+
+[caroline.hatwell@gmail.com](caroline.hatwell@gmail.com)[https://www.twitter.com/hatwell](🐦hatwell)
