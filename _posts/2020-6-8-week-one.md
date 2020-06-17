@@ -2,7 +2,7 @@
 layout: post
 title: week one
 summary: my first week remotely joining a new team
-date: 2020-08-06
+date: 2020-06-08
 ---
 
 👨‍👩‍👧‍👧 I joined a new team remotely and I was expecting it to be difficult  -  it was really challenging. there are people at work who have started new jobs and even new CAREERS in lockdown, they're very impressive!  
@@ -13,4 +13,4 @@ date: 2020-08-06
 🛒 The project is wholly dependent on someone else's API which is new for me  
 👩‍💻 I haven't worked on a service I use before that I can recall  
 😴 Way more developers than I'm used to - we are trying to work out the best way for us all to work together so the new team members can learn but we don't all get totally drained - this isn't easy  
-🏆 I won the team Friday quiz, feels important to mention that  
+🏆 I won the team Friday quiz. it feels important to mention that  
