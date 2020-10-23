@@ -3,6 +3,7 @@ layout: post
 title:
 summary: setting up your environment
 date: 2020-09-09
+published: false
 ---
 
 if you've been learning to code using some kind of brower-based tool, like codecademy, awesome! i hope you've been enjoying it! and now you're ready to take the next steps into coding. maybe you are thinking about getting reading to apply for a coding job, or you'd like to create a website or other project. even better! so, you might be wondering how what you've been doing relates to day to day software development work, or how the bits of code you've been learning all fit together to make an app or site. well, one thing you will need is get an environemt set up to work it, so you can write, run and deploy code to show off to the world.
