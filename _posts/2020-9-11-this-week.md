@@ -1,9 +1,0 @@
----
-layout: post
-title:
-summary: stuff i'm doing
-date: 2020-09-11
----
-
-⛅️ - I made an azure function! we've been working with serverless on our new project and it's taken me a while to get to grips with the intricacies of the config. i am pro-serverless for sure but the barrier to entry feels a bit high with getting things up and running. but in collarboartion with my wonderful colleauges i created and deployed the function that our chunky new feature is going to depend on
-🧪 - I'm going to create a suite of functional tests
