@@ -2,7 +2,7 @@
 layout: post
 title: The human side of remote pairing
 summary:
-date: 2020-111-18
+date: 2020-11-18
 ---
 
 I volunteered to collate some tips of best practice for remote pairing for my team, because it is hard, and we are always looking for ways to make this pretty draining activity easier on the team, so we can continue to deliver quality and also deliver ourselves sane minds at the end of each day. Lots of posts I read focussed on the technical side of pairing (tmux vs VS Code live share etc), but in my experience it's the human side of making pairing work that's harder to perfect. Here are a few points that I thought were really valuable. The italicized parts are from the articles cited, and the comments are mine.
