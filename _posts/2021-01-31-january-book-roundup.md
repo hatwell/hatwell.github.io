@@ -4,8 +4,10 @@ title: January book roundup
 summary: what I read in January
 date: 2021-01-31
 ---
-
 #### 📚 the books!
+
+![covers of books](/images/january_books.png)
+
 in the order I read them:
 
 **Conspiracy: The Greatest Plots, Collusions and Coverups by Charlotte Greig and Mike Rothschild**
