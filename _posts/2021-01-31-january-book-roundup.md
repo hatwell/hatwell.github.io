@@ -1,7 +1,7 @@
 ---
 layout: post
-title: January book roundup
-summary: what I read in January
+title: January books roundup
+summary: what I read in January 
 date: 2021-01-31
 ---
 
