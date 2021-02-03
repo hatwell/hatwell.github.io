@@ -3,11 +3,10 @@
 <meta http-equiv='X-UA-Compatible' content='IE=edge'>
 <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
 <meta property="og:type" content="website">
-<meta name="twitter:site" content="@{{ site.twitter_username }}">
+<meta name="twitter:site" content="@{{ site.twitter }}">
 <meta name="twitter:creator" content="Caroline Hatwell">
 <meta name="twitter:title" content="{{ page.title }}">
 <meta name="twitter:text:title" content="{{ page.title }}">
-<meta name="twitter:card" content="summary_large_image">
 
 
 {% if page.summary %}
@@ -17,7 +16,7 @@
 {% endif %}
 
 {% if page.image %}
-<meta property="og:image" content="{{page.image}}" />
+<meta property="og:image" content="{{site.title_image}}" />
 <meta name="twitter:image" content="{{page.image}}" />
 {% else %}
 <meta name="twitter:card" content="summary_large_image">
