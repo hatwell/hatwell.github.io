@@ -7,7 +7,7 @@ name: hatwell
 title: Caroline Hatwell
 title_image: "http://hatwell.github.io/images/sunset.jpg"
 twitter: hatwell
-baseurl: "https://hatwell.github.io/"
+baseurl: "https://hatwell.github.io"
 
 # Short bio or description (displayed in the header)
 description:
