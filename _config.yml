@@ -7,7 +7,6 @@ name: hatwell
 title: Caroline Hatwell
 title_image: "http://hatwell.github.io/images/sunset.jpg"
 twitter: hatwell
-baseurl: "https://hatwell.github.io"
 
 # Short bio or description (displayed in the header)
 description:
@@ -50,7 +49,7 @@ url:
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-
+baseurl: ""
 #
 # !! You don't need to change any of the configuration flags below !!
 #
