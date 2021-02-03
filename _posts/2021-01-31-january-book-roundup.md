@@ -6,7 +6,7 @@ date: 2021-01-31
 image: images/january_books.jpg
 ---
 
-![covers of books](/images/january_books.png)
+![covers of books](/images/january_books.jpg)
 
 in the order I read them:
 
