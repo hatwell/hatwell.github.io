@@ -3,7 +3,7 @@ layout: post
 title: January books roundup
 summary: what I read in January
 date: 2021-01-31
-image: /january_books.jpg
+image: images/january_books.jpg
 ---
 
 ![covers of books](/images/january_books.jpg)
