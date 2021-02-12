@@ -17,8 +17,8 @@
 
 {% if page.image %}
 <meta name=" twitter:card" content="summary_large_image">
-<meta property="og:image" content="{{ prepend: site.url }}{{ page.image }}" />
-<meta name="twitter:image" content="{{ prepend: site.url }}{{ page.image }}" />
+<meta property="og:image" content="{{ prepend: site.baseurl }}{{ page.image }}" />
+<meta name="twitter:image" content="{{ prepend: site.baseurl }}{{ page.image }}" />
 {% else %}
 <metai name="twitter:image" content="{{ site.title_image }}">
     {% endif %}
