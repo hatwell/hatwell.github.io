@@ -3,7 +3,7 @@ layout: post
 title: week eight
 summary:  
 date: 2021-02-26
-image: images/wtf.png
+image: images/week_eight/wtf.png
 ---
 
 🗣 - had a really good honest conversation with someone this week where we gave feedback about ways we were working together that needed improving. me even two years ago would have not felt at all able to do that, but it felt good and i feel good about how it'll make out team even stronger. asking for and giving feedback is so valuable!  
