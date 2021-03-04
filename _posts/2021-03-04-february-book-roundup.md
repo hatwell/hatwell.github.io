@@ -6,8 +6,6 @@ date: 2021-03-04
 image: images/february_books/february_books.png
 ---
 
-![covers of books](/images/february_books/february_books.png)
-
 This month I only read one non-fiction books, which goes against my plan for the year. I'm lining up some more for March.
 
 in the order I read them:
