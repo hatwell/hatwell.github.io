@@ -3,7 +3,7 @@ layout: post
 title: week fourteen (a week off)
 summary:  
 date: 2021-04-11
-image: images/week_fourteen/garden.jpeg
+image: images/week_fourteen/garden.png
 ---
 
 🏝 - this week i've been on holiday! things i have done:
