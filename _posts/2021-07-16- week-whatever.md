@@ -3,7 +3,7 @@ layout: post
 title: week twenty-eight
 summary:  
 date: 2021-07-16
-image: images/week_fourteen/bricks.png
+image: images/week_twenty_eight/bricks.png
 ---
 
 ### i haven't been writing these for ages, but i wanted to return to them so I made it a mid-year resolution. and then international football got in the way for two weeks. here i am
