@@ -12,7 +12,7 @@ layout: default
       {% if post.image %}
       <img src="{{ post.image }}" alt="{{ post.title }}" title="{{ post.title }}">
       {% endif %}
-      {{ post.excerpt }}
+      {{ post.excerpt | truncate: 156 }}
 
     </div>
 
