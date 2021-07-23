@@ -2,7 +2,7 @@
 layout: post
 title: estimates / no estimates
 date: 2021-07-20
-image: images/estimates/collyhurst.png
+image: images/estimates/grass.png
 ---
 
 Some unformed thoughts about why some engineers are resistant to giving time estimates for their work (hint: it's fear, it's obviously fear).
